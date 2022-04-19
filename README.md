@@ -1,16 +1,12 @@
 # Insertion-Sort-Projesi
 Veri Yapıları ve Algoritmalar konusunda yaptığım ilk proje.
 
-# insertion sort project
+> # insertion sort project
 ## Soru 1
-[22, 27, 16, 2, 18, 6] => Insertion Sort
+[22,27,16,2,18,6] -> Insertion Sort türüne göre aşamalarını yazınız
 
-> Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
-> Big-O gösterimini yazınız.
-> Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
-> Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-## Cevap
+## Cevap 1
 ```
 1. aşama : [2, 27, 16, 22, 18, 6]
 2. aşama : [2, 6, 16, 22, 18, 27]
