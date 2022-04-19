@@ -1,8 +1,7 @@
 # Insertion-Sort-Projesi
 Veri Yapıları ve Algoritmalar konusunda yaptığım ilk proje.
 
-> # insertion sort project
-## Soru 1
+> ## Soru 1
 [22,27,16,2,18,6] -> Insertion Sort türüne göre aşamalarını yazınız
 
 
