@@ -30,7 +30,7 @@ Big-O gösterimi : O(n^2)
 > ## Soru 3
 Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
-> ## Cevap 2
+> ## Cevap 3
 ```
 1. aşama : [2, 27, 16, 22, 18, 6]
 2. aşama : [2, 6, 16, 22, 18, 27]
@@ -43,7 +43,7 @@ Big-O gösterimi : O(n^2)
 > ## Soru 4
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-> ## Cevap 2
+> ## Cevap 4
 ```
 1. aşama : [2, 27, 16, 22, 18, 6]
 2. aşama : [2, 6, 16, 22, 18, 27]
